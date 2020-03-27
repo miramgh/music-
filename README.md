@@ -1,3 +1,3 @@
 # music-
 music app 
-##get motes
+##get notes
